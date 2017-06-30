@@ -1,0 +1,11 @@
+<resources>
+
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+
+    <dimen name="text_size_18">18sp</dimen>
+
+
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imv_add_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:clickable="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/icon_add_image" />
+
+    <ImageView
+        android:id="@+id/imv_edit"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:clickable="true"
+        android:src="@drawable/icon_delete_ieb"
+        android:visibility="gone" />
+
+</RelativeLayout>
